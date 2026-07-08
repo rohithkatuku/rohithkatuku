@@ -17,7 +17,7 @@
 - 3 years as a Software Engineer at Virtusa, backend/data engineering across JPMorgan Chase, Cisco, Citi Bank
 - Building production-style ML systems: anomaly detection, fraud detection, forecasting, LLM-powered pipelines
 - Currently looking for Junior ML Engineer / AI Engineer / Data Scientist roles
-- OPT authorized, no visa sponsorship needed
+
 
 ## Tech Stack
 
