@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: rohithkatuku/snk@9f5396455aa64c7f22eb5f674a5ed3abaf457983
         with:
           github_user_name: rohithkatuku
           outputs: |
